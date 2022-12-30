@@ -1,0 +1,15 @@
+ısbn / title / author / quantity
+123 harrypotter jkrowling 10
+2234 uğultulutepeler emilybronte 2
+3535 suçveceza dostoyevski 6
+1234 alacakaranlık meyer 2
+34 homosapiens harrari 2
+24 gaga hhhd 4
+123 jjjdjd jkl 7
+1234 kasdf asd 3
+768 bene ldldd 3
+12 silahlaraveda hemingway 2
+3 a ve ekfkfkf 3
+321 me you 5
+123 ben o 1
+234 hello world 3
